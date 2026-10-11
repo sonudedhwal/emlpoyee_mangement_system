@@ -1,0 +1,14 @@
+streamlit
+pandas
+scikit-learn
+mysql-connector-python
+SQLAlchemy
+
+streamlit
+pandas
+scikit-learn
+mysql-connector-python
+SQLAlchemy
+fastapi
+uvicorn
+
